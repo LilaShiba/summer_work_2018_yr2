@@ -16,14 +16,16 @@ Ten bonus points for every level you reach in codewars. Next year will be hard. 
 - Your code must be commented on by one of your peers (try using atom & teletype, github, &| or slack)
 - Your final repo should be linked in slack
 - [how to add a collaborator on github](https://stackoverflow.com/questions/7920320/adding-a-collaborator-to-my-free-github-account)
-- [markdown guide](https://guides.github.com/features/mastering-markdown/
+- [markdown guide](https://guides.github.com/features/mastering-markdown/)
 
 
 ## Part 1: Programs to Create
 
 Programs should be pushed to github with comments explaining what the heck is going on. A readme should be added that can teach a complete noob how to create and understand your program.
 
+You will solve the
 [Traveling Sales Man Problem](https://www.youtube.com/watch?v=BAejnwN4Ccw&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX&index=32)
+with the following algorithms:
 
 - Brute Force
 - Genetic Algorithm
