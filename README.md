@@ -1,6 +1,9 @@
 # Summer Work
 
-Summer work is broken into 3 parts: programming, questions, and IA.
+Summer work is broken into 3 parts: 
+- programming 
+- questions 
+- IA.
 ![summer](https://pre00.deviantart.net/0be9/th/pre/f/2014/104/4/d/summer_doge_wallpaper_by_nicdroidph-d7eir0s.png)
 - Sources may be shared on slack
 - Your code must be commented on by one of your peers (try using atom & teletype, github, &| or slack)
@@ -13,7 +16,7 @@ Summer work is broken into 3 parts: programming, questions, and IA.
 
 Programs should be pushed to github with comments explaining what the heck is going on. A readme should be added that can teach a complete noob how to create and understand your program.
 
-![Traveling Sales Man Problem](https://www.youtube.com/watch?v=BAejnwN4Ccw&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX&index=32)
+[Traveling Sales Man Problem](https://www.youtube.com/watch?v=BAejnwN4Ccw&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX&index=32)
 
 - Brute Force
 - Genetic Algorithm
