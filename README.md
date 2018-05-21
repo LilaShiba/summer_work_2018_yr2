@@ -1,7 +1,7 @@
 # Summer Work
 
 Summer work is broken into 3 parts: programming, questions, and IA.
-!(summer)(https://pre00.deviantart.net/0be9/th/pre/f/2014/104/4/d/summer_doge_wallpaper_by_nicdroidph-d7eir0s.png)
+![summer](https://pre00.deviantart.net/0be9/th/pre/f/2014/104/4/d/summer_doge_wallpaper_by_nicdroidph-d7eir0s.png)
 - Sources may be shared on slack
 - Your code must be commented on by one of your peers (try using atom & teletype, github, &| or slack)
 - Your final repo should be linked in slack
@@ -61,4 +61,4 @@ In your class repo create a new dir called networks. Answer the following questi
 - Section B should be done
 - Section C should have a working prototype
 
-![https://i.imgur.com/zmX4bRU.png]
+![summer](https://i.imgur.com/zmX4bRU.png)
