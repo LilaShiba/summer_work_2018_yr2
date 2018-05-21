@@ -3,8 +3,15 @@
 Summer work is broken into 3 parts: 
 - programming 
 - questions 
-- IA.
+- IA
+
+## Bouns Points for Next Year:
+Ten bonus points for every level you reach in codewars. Next year will be hard. This is a good idea.
+
+
 ![summer](https://pre00.deviantart.net/0be9/th/pre/f/2014/104/4/d/summer_doge_wallpaper_by_nicdroidph-d7eir0s.png)
+
+### How to Work
 - Sources may be shared on slack
 - Your code must be commented on by one of your peers (try using atom & teletype, github, &| or slack)
 - Your final repo should be linked in slack
