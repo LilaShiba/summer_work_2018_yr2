@@ -1,8 +1,7 @@
 # Summer Work
 
-Summer work is broken into 3 parts: 
+Summer work is broken into 2 parts: 
 - programming 
-- questions 
 - IA
 
 ## Bouns Points for Next Year:
@@ -34,42 +33,7 @@ with the following algorithms:
 
 
 
-## Part 2: Questions and Vocab
-
-In your class repo create a new dir called networks. Answer the following questions in networks by creating a readme.md.
-
-### You should answer the questions by explaining real world examples
-
-- protocol
-
-- data packet
-
-- Identify different types of networks.
-
-- Explain why the speed of data transmission across a network can vary
-
-- Explain why compression of data is often necessary when transmitting across a network.
-
-- Explain how data is transmitted by packet switching
-
-- Outline the advantages and disadvantages of wireless networks
-
-- Describe the hardware and software components of a wireless network
-
-- Describe the characteristics of wireless networks
-
-- Describe the different methods of network security
-
-- Evaluate the advantages and disadvantages of each method of network security
-
-- Identify the technologies required to provide a VPN
-
-- Evaluate the use of a VPN
-
-![network meme](https://i.pinimg.com/originals/c1/55/a1/c155a1b393899ffd7c36ff01090ce8f5.jpg)
-
-
-## Part 3: Section B and C
+## Part 2: Section B and C
 - Section B should be done
 - Section C should have a working prototype
 
