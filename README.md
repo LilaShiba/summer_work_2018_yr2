@@ -22,12 +22,19 @@ Ten bonus points for every level you reach in codewars. Next year will be hard. 
 
 Programs should be pushed to github with comments explaining what the heck is going on. A readme should be added that can teach a complete noob how to create and understand your program.
 
-You will solve the
-[Traveling Sales Man Problem](https://www.youtube.com/watch?v=BAejnwN4Ccw&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX&index=32)
-with the following algorithms:
+### You may pick any program that is complex enough. Email me to make sure the program is complex enough.
 
-- Brute Force
-- Genetic Algorithm
+
+Here are a few programs that I would suggest
+
+[p5js attraction forces](https://www.youtube.com/watch?v=OAcXnzRNiCY)
+[p5js api data mapping animations](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
+[p5js create the game Asteroids](https://www.youtube.com/watch?v=hacZU523FyM)
+[p5js Evolutionary Steering Behaviors](https://www.youtube.com/watch?v=flxOkx0yLrY&t=242s)
+
+## OR
+
+Continue working with OOP in Python!
 
 ![fun](https://cdn-images-1.medium.com/max/500/1*qZoBA3wFh-82y2N3qQCdpw.jpeg)
 
