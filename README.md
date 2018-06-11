@@ -27,10 +27,10 @@ Programs should be pushed to github with comments explaining what the heck is go
 
 Here are a few programs that I would suggest
 
-[p5js attraction forces](https://www.youtube.com/watch?v=OAcXnzRNiCY)
-[p5js api data mapping animations](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
-[p5js create the game Asteroids](https://www.youtube.com/watch?v=hacZU523FyM)
-[p5js Evolutionary Steering Behaviors](https://www.youtube.com/watch?v=flxOkx0yLrY&t=242s)
+- [p5js attraction forces](https://www.youtube.com/watch?v=OAcXnzRNiCY)
+- [p5js api data mapping animations](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
+- [p5js create the game Asteroids](https://www.youtube.com/watch?v=hacZU523FyM)
+- [p5js Evolutionary Steering Behaviors](https://www.youtube.com/watch?v=flxOkx0yLrY&t=242s)
 
 ## OR
 
